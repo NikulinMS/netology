@@ -2,7 +2,7 @@
 
 
 
-NikulinMS Hello, World!
+NikulinMS Hello
 
 
 
